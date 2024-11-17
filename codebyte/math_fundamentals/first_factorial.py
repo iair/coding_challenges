@@ -68,5 +68,3 @@ print(f"Math Approach (first_factorial_3): {math_times:.6f} seconds")
 # Iterative Approach (first_factorial_1): 0.471636 seconds
 # Reduce Approach (first_factorial_2): 0.827730 seconds
 # Math Approach (first_factorial_3): 0.085048 seconds
-
-
